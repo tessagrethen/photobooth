@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5D27C7DF-5380-4472-AAB2-60AA345BDB0F}|Default">
+  <MonoDevelop.Ide.ItemProperties.photobooth.app PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainWindow.cs">
+    <Files>
+      <File FileName="CompositeModel.cs" Line="1" Column="1" />
+      <File FileName="ListView.cs" Line="1" Column="1" />
+      <File FileName="Main.cs" Line="1" Column="1" />
+      <File FileName="MainWindow.cs" Line="109" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
