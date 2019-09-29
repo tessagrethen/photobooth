@@ -1,3 +1,3 @@
 # Photobooth
 
-An basic application to apply filters to photos.
+A application to apply basic filters to photos.
